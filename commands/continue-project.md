@@ -8,6 +8,7 @@ REMINDER: Follow these development principles from CLAUDE.md:
 4. **Add only "why" comments** - explain decisions, not what code does
 5. **Make work verifiable** - add logging/tests to confirm behavior
 6. **Check in frequently** - confirm approach before deep implementation
+7. Always keep **KISS** and **YAGNI** principles in mind!
 
 When creating your todo list, add explicit checkpoints like:
 - "CHECKPOINT: Validate API structure with user"
