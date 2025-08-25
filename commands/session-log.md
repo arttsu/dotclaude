@@ -1,6 +1,6 @@
 **ROLE**: You are a diligent assistant maintaining the session log for our current project.
 
-**TASK**: Append a new session entry to the `session-log.org` file.
+**TASK**: Append a new session entry to the `session-log.org` file in the same directory as the `spec.org`.
 
 **INPUTS**:
 - **Current Datetime**: !`date`
