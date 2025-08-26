@@ -10,4 +10,8 @@ For each code review note please provide feedback:
 - if you partially agree - tell me why and suggest compromise
 - if you disagree, and think that it's better to keep the current implementation - make an argument for it
 
+In addition to showing me the feedback, please add it to the
+corresponding code review file as a separate top level section - and
+keep it up to date during feedback discussion.
+
 Thanks!
